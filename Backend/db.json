@@ -1,0 +1,20 @@
+{
+    "usuarios":[
+        {
+        "id": 1,
+        "apellido_paterno":"Castillo",
+        "apellido_materno":"Guerra",
+        "nombre":"Salvador",
+        "username":"162016@utags.edu.mx",
+        "password":"e10adc3949ba59abbe56e057f20f883e"
+        },
+        {
+            "id": 2,
+            "apellido_paterno":"Pe",
+            "apellido_materno":"Pere",
+            "nombre":"Jose",
+            "username":"j.perez@gmail.com",
+            "password":"c33367701511b4f6020ec61ded352059"
+       }
+    ]
+}
